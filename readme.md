@@ -32,3 +32,8 @@ When writing the code, remember to make it well documented, clear and maintainab
 
 Please don't spend too long on this, understanding and fixing the code should take less than hour if you have some experience with Python.
 
+### Submitting the answer
+
+Ideally, you can fork the MOCCA repo and have the changes on your own GitHub. (If you don't feel confident working with GitHub, it is possible to just sent the modified file(s) via email)
+
+**Please don't create pull requests to the original repo!**
