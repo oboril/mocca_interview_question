@@ -30,3 +30,5 @@ If you installed everything correctly, the script `test.py` should run and show 
 
 When writing the code, remember to make it well documented, clear and maintainable.
 
+Please don't spend too long on this, understanding and fixing the code should take less than hour if you have some experience with Python.
+
