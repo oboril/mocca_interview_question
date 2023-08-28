@@ -1,6 +1,6 @@
 # Practical question
 
-MOCCA is currently tested on real-world data from the lab to fix possible bugs. When investigating a cross-coupling reaction, unexpected elution times were observed for some of the peaks. It is thought that this could be bug in the data parsing function.
+MOCCA is currently tested on real-world data from the lab to fix possible bugs. When investigating a cross-coupling reaction, unexpected elution times were observed for some of the peaks. It is thought that this could be due to a bug in the data parsing function.
 
 It is known that dominant peaks on the chromatogram are:
 
