@@ -10,8 +10,6 @@ It is known that dominant peaks on the chromatogram are:
     
     * product at 1.12 mins
 
-Your task will be to investigate the origin of the unusual peak shifts and fix the buggy code.
-
 ### Useful information
 
 The version of MOCCA that you should be using can be cloned from [this github repo](https://github.com/HaasCP/mocca).
