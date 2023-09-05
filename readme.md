@@ -18,7 +18,7 @@ from mocca.dad_data.apis.empower import read_empower
 data, time, wavelength = read_empower('sample1.arw')
 ```
 
-You are given two chromatograms of the same reaction, which were however recorded by different scientists. The data from `sample1.arw` seems to be just fine, but the peaks from `sample2.arw` have unexpected elution times.
+You are given two chromatograms of the same reaction, which were however recorded by different scientists. The data from `sample1.arw` seems to be just fine, but the peaks from `sample2.arw` have unexpected elution times. However, on other software the both chromatograms seem to be correct.
 
 If you installed everything correctly, the script `test.py` should run and show the chromatogram data. Note that this is a minimal example and not production code.
 
