@@ -34,6 +34,6 @@ Please don't spend too long on this, understanding and fixing the code should ta
 
 ### Submitting the answer
 
-Ideally, you can fork the MOCCA repo and have the changes on your own GitHub. (If you don't feel confident working with GitHub, it is possible to just sent the modified file(s) via email)
+Submit the modified parser function via email. Please do not share your answer publicly before the interviewing process is over.
 
 **Please don't create pull requests to the original repo!**
